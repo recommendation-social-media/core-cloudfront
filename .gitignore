@@ -1,0 +1,9 @@
+venv
+__pycache__
+tempCodeRunnerFile.*
+terraform.tfstate
+.terraform.lock.hcl
+infra/*.zip
+infra/layer
+.terraform
+terraform.tfstate.backup
